@@ -1,0 +1,573 @@
+{
+ "kontras": [
+  [
+   "Teks utama pada kartu",
+   "#182226",
+   "#FFFFFF",
+   16.21,
+   4.5
+  ],
+  [
+   "Teks sekunder",
+   "#4F5F67",
+   "#FFFFFF",
+   6.63,
+   4.5
+  ],
+  [
+   "Teks kecil (rujukan, catatan)",
+   "#65747C",
+   "#FFFFFF",
+   4.84,
+   4.5
+  ],
+  [
+   "Ikon netral",
+   "#87939A",
+   "#FFFFFF",
+   3.15,
+   3
+  ],
+  [
+   "Tombol aksi utama",
+   "#0F6E63",
+   "#FFFFFF",
+   6.12,
+   4.5
+  ],
+  [
+   "Aksen inovasi",
+   "#4C46B6",
+   "#FFFFFF",
+   7.35,
+   4.5
+  ],
+  [
+   "Pil status aman",
+   "#1F6B47",
+   "#E4F2EA",
+   5.59,
+   4.5
+  ],
+  [
+   "Pil status waspada",
+   "#8A5A0B",
+   "#FBF0DA",
+   5.24,
+   4.5
+  ],
+  [
+   "Pil status bahaya",
+   "#A8342A",
+   "#F8E3DF",
+   5.34,
+   4.5
+  ],
+  [
+   "Nilai berstatus waspada",
+   "#8A5A0B",
+   "#FFFFFF",
+   5.92,
+   4.5
+  ],
+  [
+   "Nilai berstatus bahaya",
+   "#A8342A",
+   "#FFFFFF",
+   6.58,
+   4.5
+  ],
+  [
+   "Batas zona aman vs rel",
+   "#1F6B47",
+   "#E4E8EA",
+   5.24,
+   3
+  ],
+  [
+   "Penanda nilai vs rel",
+   "#182226",
+   "#E4E8EA",
+   13.14,
+   3
+  ],
+  [
+   "Garis tekanan (gelombang)",
+   "#A87A22",
+   "#F0EEE9",
+   3.31,
+   3
+  ],
+  [
+   "Garis aliran",
+   "#1B7356",
+   "#F0EEE9",
+   4.98,
+   3
+  ],
+  [
+   "Garis volume",
+   "#2A6489",
+   "#F0EEE9",
+   5.52,
+   3
+  ],
+  [
+   "Teks pada aksen lembut",
+   "#0F6E63",
+   "#E1EFEB",
+   5.17,
+   4.5
+  ],
+  [
+   "Teks di latar halaman",
+   "#182226",
+   "#F2F1EC",
+   14.33,
+   4.5
+  ]
+ ],
+ "palet": [
+  [
+   "paper",
+   "#F2F1EC"
+  ],
+  [
+   "card",
+   "#FFFFFF"
+  ],
+  [
+   "sink",
+   "#F0EEE9"
+  ],
+  [
+   "line",
+   "#D9D3C8"
+  ],
+  [
+   "line-2",
+   "#E9E5DE"
+  ],
+  [
+   "ink",
+   "#182226"
+  ],
+  [
+   "ink-2",
+   "#4F5F67"
+  ],
+  [
+   "ink-3",
+   "#65747C"
+  ],
+  [
+   "ink-4",
+   "#87939A"
+  ],
+  [
+   "accent",
+   "#0F6E63"
+  ],
+  [
+   "accent-2",
+   "#0A544C"
+  ],
+  [
+   "accent-soft",
+   "#E1EFEB"
+  ],
+  [
+   "warm",
+   "#4C46B6"
+  ],
+  [
+   "warm-soft",
+   "#ECEBF9"
+  ],
+  [
+   "ok",
+   "#1F6B47"
+  ],
+  [
+   "ok-soft",
+   "#E4F2EA"
+  ],
+  [
+   "warn",
+   "#8A5A0B"
+  ],
+  [
+   "warn-soft",
+   "#FBF0DA"
+  ],
+  [
+   "bad",
+   "#A8342A"
+  ],
+  [
+   "bad-soft",
+   "#F8E3DF"
+  ],
+  [
+   "track",
+   "#E4E8EA"
+  ],
+  [
+   "zone",
+   "#C6E2D4"
+  ],
+  [
+   "paw",
+   "#A87A22"
+  ],
+  [
+   "flow",
+   "#1B7356"
+  ],
+  [
+   "vol",
+   "#2A6489"
+  ]
+ ],
+ "skenario": [
+  [
+   "Paru sehat",
+   "55.0",
+   "5.0",
+   "8.0",
+   "3.0",
+   "0.15",
+   "0.03"
+  ],
+  [
+   "ARDS ringan",
+   "42.0",
+   "8.0",
+   "15.0",
+   "7.0",
+   "0.22",
+   "0.06"
+  ],
+  [
+   "ARDS sedang",
+   "32.0",
+   "10.0",
+   "20.0",
+   "9.0",
+   "0.26",
+   "0.09"
+  ],
+  [
+   "ARDS berat",
+   "23.0",
+   "11.0",
+   "26.0",
+   "11.0",
+   "0.32",
+   "0.13"
+  ],
+  [
+   "Obstruktif",
+   "50.0",
+   "24.0",
+   "8.0",
+   "3.0",
+   "0.15",
+   "0.04"
+  ],
+  [
+   "Derekrutmen mendadak",
+   "40.0",
+   "9.0",
+   "16.0",
+   "8.0",
+   "0.24",
+   "0.06"
+  ]
+ ],
+ "limits": [
+  [
+   "plateau_max",
+   "30.0"
+  ],
+  [
+   "driving_max",
+   "15.0"
+  ],
+  [
+   "driving_tail",
+   "20.0"
+  ],
+  [
+   "mp_soft",
+   "17.0"
+  ],
+  [
+   "spo2_min",
+   "90.0"
+  ],
+  [
+   "paco2_max",
+   "65.0"
+  ],
+  [
+   "vt_max_ml_kg",
+   "9.0"
+  ]
+ ],
+ "bounds": [
+  [
+   "VT_mean, liter",
+   "0.22",
+   "0.60"
+  ],
+  [
+   "PEEP, cmH2O",
+   "5.0",
+   "18.0"
+  ],
+  [
+   "RR_mean, /menit",
+   "12.0",
+   "32.0"
+  ],
+  [
+   "FiO2",
+   "0.30",
+   "0.90"
+  ],
+  [
+   "CV",
+   "0.00",
+   "0.40"
+  ],
+  [
+   "gamma (skewness)",
+   "-0.80",
+   "0.80"
+  ],
+  [
+   "beta (eksponen fraktal)",
+   "0.00",
+   "1.50"
+  ]
+ ],
+ "bobot": [
+  [
+   "mp",
+   "1.00",
+   "J/menit"
+  ],
+  [
+   "gi",
+   "28.0",
+   "GI tak berdimensi, perlu skala besar"
+  ],
+  [
+   "paco2",
+   "0.075",
+   "per mmHg^2"
+  ],
+  [
+   "spo2",
+   "0.55",
+   "per %^2 kekurangan"
+  ],
+  [
+   "move",
+   "0.60",
+   ""
+  ],
+  [
+   "barrier",
+   "45.0",
+   ""
+  ]
+ ],
+ "mpc": [
+  [
+   "45",
+   "24"
+  ]
+ ],
+ "kode": [
+  [
+   "vivampc/controller.py — fungsi biaya economic MPC",
+   "    def _scenario_cost(self, u, state, rng):\n        vt_m, peep, rr, fio2, cv, gamma, beta = u\n        vt_seq, t_seq = breath_pattern(self.H, vt_m, rr, cv, gamma, beta, rng)\n        out = self.model.rollout(state, vt_seq, t_seq, peep, fio2)\n\n        w = self.w\n        cost = w[\"mp\"] * out[\"mp\"] + w[\"gi\"] * out[\"gi\"]\n        cost += w[\"paco2\"] * (out[\"paco2\"] - self.targets[\"paco2\"]) ** 2\n        cost += w[\"spo2\"] * max(self.targets[\"spo2\"] - out[\"spo2\"], 0.0) ** 2\n        cost += w[\"move\"] * float(np.sum(((u - self.u) / (BOUNDS[:, 1] - BOUNDS[:, 0])) ** 2))\n\n        # Barrier lunak di dalam biaya; batas keras tetap ditegakkan lapis 4.\n        peak_vt = vt_m * (1.0 + 2.2 * cv)\n        viol = (max(out[\"plateau\"] - LIMITS[\"plateau_max\"], 0.0)\n                + max(out[\"driving\"] - LIMITS[\"driving_max\"], 0.0)\n                + 0.5 * max(out[\"driving_p95\"] - LIMITS[\"driving_tail\"], 0.0)\n                + 0.35 * max(out[\"mp\"] - LIMITS[\"mp_soft\"], 0.0)\n                + max(1000.0 * peak_vt / self.weight - LIMITS[\"vt_max_ml_kg\"], 0.0)"
+  ],
+  [
+   "vivampc/variability.py — IAAFT (memaksakan marginal dan spektrum bergantian)",
+   "def _iaaft(target_values, target_amplitude, n_iter=None):\n    \"\"\"\n    Iterative Amplitude Adjusted Fourier Transform (Schreiber & Schmitz, PRL 1996).\n\n    Kopula Gaussian biasa merusak spektrum ketika skewness besar: transformasi\n    marginal yang nonlinier menggeser energi antar frekuensi. IAAFT menyelesaikan\n    itu dengan memaksakan dua kendala secara bergantian sampai keduanya terpenuhi:\n    distribusi marginal persis sama dengan target, dan amplitudo spektral persis\n    sama dengan target. Hasilnya CV, skewness, dan beta semuanya terwujud.\n    \"\"\"\n    if n_iter is None:\n        # Horizon MPC hanya belasan napas; struktur spektral di sana nyaris\n        # tidak punya ruang untuk terbentuk, jadi iterasi penuh cuma membakar\n        # waktu. Deret panjang untuk plant tetap mendapat iterasi penuh.\n        n_iter = int(np.clip(len(target_values) // 8, 6, 60))\n    sorted_target = np.sort(target_values)\n    series = np.random.default_rng(0).permutation(target_values)\n\n    for _ in range(n_iter):\n        spec = np.fft.rfft(series)\n        phase = np.angle(spec)\n        series = np.fft.irfft(target_amplitude * np.exp(1j * phase),\n                              n=len(series))\n        order = np.argsort(np.argsort(series))\n        new = sorted_target[order]\n        if np.allclose(new, series, atol=1e-10):\n            series = new\n            break\n        series = new\n\n    return series"
+  ],
+  [
+   "vivampc/plant.py — resistansi cabang saat derekrutmen",
+   "    def _branch_resistance(self):\n        \"\"\"\n        Derekrutmen dimodelkan sebagai penyempitan saluran, bukan pengerasan jaringan.\n\n        Ini pilihan yang disengaja. Kalau derekrutmen dimodelkan sebagai elastance\n        yang membesar, konstanta waktu kompartemen menyusut sampai di bawah langkah\n        waktu integrator dan simulasi meledak. Lebih dari itu, secara fisiologi unit\n        yang kolaps memang tidak menerima aliran -- ia tertutup, bukan kaku. Dengan\n        R ~ 1/s^2, unit yang hampir tertutup mengisi sangat lambat sehingga dalam\n        satu napas ia praktis tidak ikut berventilasi; persis perilaku yang membuat\n        rekrutmen bergantung waktu (Bates & Irvin 2002).\n        \"\"\"\n        return self.r_comp / np.maximum(self.s, 0.02) ** 2\n"
+  ]
+ ],
+ "uji": [
+  "kanvas lung3d stabil",
+  "kanvas wave stabil",
+  "kanvas scatter stabil",
+  "pembacaan rMP",
+  "pembacaan rGI",
+  "pembacaan rDP",
+  "pembacaan rPP",
+  "pembacaan rCO2",
+  "pembacaan rSAT",
+  "pembacaan rREC",
+  "tombol tandai",
+  "tombol derekrutmen",
+  "ganti skenario",
+  "slider CV",
+  "kecepatan simulasi",
+  "klik lobus memunculkan detail",
+  "popover bisa ditutup",
+  "preset sudut pandang",
+  "tiga tombol alih berfungsi",
+  "demo terpandu mulai",
+  "demo bisa dihentikan",
+  "analisis otomatis terisi",
+  "temuan analisis ditampilkan",
+  "deskripsi pasien terisi",
+  "status tiap pembacaan",
+  "penanda rentang bergerak",
+  "panduan terbuka",
+  "panduan tertutup",
+  "tooltip muncul",
+  "cadangan kanvas 2D aktif tanpa WebGL",
+  "VIVA-MPC berjalan",
+  "perbandingan sebelum-sesudah dimulai",
+  "tanpa error runtime",
+  "tanpa nilai NaN di kanvas"
+ ],
+ "berkas": [
+  [
+   "viva-mpc-simulator.html",
+   199
+  ],
+  [
+   "LAPORAN-VIVA-MPC.docx",
+   778
+  ],
+  [
+   "buat_paru_blender.py",
+   10
+  ],
+  [
+   "paru_blender.obj",
+   85
+  ],
+  [
+   "tanam_mesh.py",
+   1
+  ],
+  [
+   "cek_instalasi.py",
+   2
+  ],
+  [
+   "run_experiments.py",
+   3
+  ],
+  [
+   "run_pareto.py",
+   3
+  ],
+  [
+   "make_figures.py",
+   5
+  ],
+  [
+   "uji_web.js",
+   9
+  ],
+  [
+   "uji_webgl.js",
+   5
+  ],
+  [
+   "uji_render_png.js",
+   7
+  ],
+  [
+   "results.json",
+   27
+  ],
+  [
+   "pareto.json",
+   10
+  ],
+  [
+   "requirements.txt",
+   0
+  ],
+  [
+   "README.md",
+   5
+  ],
+  [
+   "LAPORAN.md",
+   11
+  ],
+  [
+   "CARA_MENJALANKAN.md",
+   4
+  ],
+  [
+   "buat_laporan_docx.js",
+   70
+  ]
+ ],
+ "modul": [
+  [
+   "__init__.py",
+   0.8,
+   14
+  ],
+  [
+   "baselines.py",
+   3.8,
+   109
+  ],
+  [
+   "controller.py",
+   15.7,
+   356
+  ],
+  [
+   "estimator.py",
+   3.3,
+   88
+  ],
+  [
+   "loop.py",
+   4.1,
+   110
+  ],
+  [
+   "plant.py",
+   8.0,
+   192
+  ],
+  [
+   "scenarios.py",
+   2.4,
+   69
+  ],
+  [
+   "surrogate.py",
+   6.8,
+   149
+  ],
+  [
+   "variability.py",
+   6.7,
+   174
+  ],
+  [
+   "ventilator.py",
+   5.2,
+   129
+  ]
+ ]
+}

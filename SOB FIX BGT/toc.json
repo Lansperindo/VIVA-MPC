@@ -1,0 +1,448 @@
+{
+ "entries": [
+  {
+   "text": "ABSTRAK",
+   "level": "HEADING_1",
+   "page": 2
+  },
+  {
+   "text": "ABSTRACT",
+   "level": "HEADING_2",
+   "page": 2
+  },
+  {
+   "text": "DAFTAR ISI",
+   "level": "HEADING_1",
+   "page": 3
+  },
+  {
+   "text": "DAFTAR GAMBAR",
+   "level": "HEADING_1",
+   "page": 3
+  },
+  {
+   "text": "DAFTAR TABEL",
+   "level": "HEADING_1",
+   "page": 3
+  },
+  {
+   "text": "DAFTAR SINGKATAN DAN NOTASI",
+   "level": "HEADING_1",
+   "page": 3
+  },
+  {
+   "text": "BAB I  PENDAHULUAN",
+   "level": "HEADING_1",
+   "page": 7
+  },
+  {
+   "text": "1.1  Latar Belakang",
+   "level": "HEADING_2",
+   "page": 7
+  },
+  {
+   "text": "1.2  Rumusan Masalah",
+   "level": "HEADING_2",
+   "page": 8
+  },
+  {
+   "text": "1.3  Tujuan",
+   "level": "HEADING_2",
+   "page": 8
+  },
+  {
+   "text": "1.4  Manfaat",
+   "level": "HEADING_2",
+   "page": 8
+  },
+  {
+   "text": "1.5  Batasan Masalah",
+   "level": "HEADING_2",
+   "page": 8
+  },
+  {
+   "text": "1.6  Sistematika Penulisan",
+   "level": "HEADING_2",
+   "page": 8
+  },
+  {
+   "text": "BAB II  TINJAUAN PUSTAKA",
+   "level": "HEADING_1",
+   "page": 10
+  },
+  {
+   "text": "2.1  Mekanika Pernapasan",
+   "level": "HEADING_2",
+   "page": 10
+  },
+  {
+   "text": "2.2  Cedera Paru Akibat Ventilator",
+   "level": "HEADING_2",
+   "page": 10
+  },
+  {
+   "text": "2.3  Rekrutmen dan Derekrutmen",
+   "level": "HEADING_2",
+   "page": 10
+  },
+  {
+   "text": "2.4  Ventilasi Variabel",
+   "level": "HEADING_2",
+   "page": 11
+  },
+  {
+   "text": "2.5  Sistem Kendali Tertutup pada Ventilator",
+   "level": "HEADING_2",
+   "page": 11
+  },
+  {
+   "text": "2.6  Electrical Impedance Tomography dan Global Inhomogeneity Index",
+   "level": "HEADING_2",
+   "page": 11
+  },
+  {
+   "text": "2.7  Model Predictive Control dan Estimasi Keadaan",
+   "level": "HEADING_2",
+   "page": 11
+  },
+  {
+   "text": "2.8  Posisi Kebaruan",
+   "level": "HEADING_2",
+   "page": 12
+  },
+  {
+   "text": "BAB III  METODOLOGI",
+   "level": "HEADING_1",
+   "page": 13
+  },
+  {
+   "text": "3.1  Kerangka Umum",
+   "level": "HEADING_2",
+   "page": 13
+  },
+  {
+   "text": "3.2  Kembaran Digital Paru",
+   "level": "HEADING_2",
+   "page": 13
+  },
+  {
+   "text": "3.3  Estimator Moving Horizon",
+   "level": "HEADING_2",
+   "page": 14
+  },
+  {
+   "text": "3.4  Generator Pola Napas",
+   "level": "HEADING_2",
+   "page": 14
+  },
+  {
+   "text": "3.5  Model Internal Controller",
+   "level": "HEADING_2",
+   "page": 15
+  },
+  {
+   "text": "3.6  Economic Stochastic MPC",
+   "level": "HEADING_2",
+   "page": 15
+  },
+  {
+   "text": "3.7  Pengawas Keselamatan",
+   "level": "HEADING_2",
+   "page": 15
+  },
+  {
+   "text": "3.8  Pembanding",
+   "level": "HEADING_2",
+   "page": 16
+  },
+  {
+   "text": "3.9  Rancangan Eksperimen",
+   "level": "HEADING_2",
+   "page": 16
+  },
+  {
+   "text": "3.10  Indikator Kinerja Utama",
+   "level": "HEADING_2",
+   "page": 16
+  },
+  {
+   "text": "3.11  Implementasi Perangkat Lunak",
+   "level": "HEADING_2",
+   "page": 17
+  },
+  {
+   "text": "3.12  Simulator Interaktif",
+   "level": "HEADING_2",
+   "page": 18
+  },
+  {
+   "text": "3.13  Verifikasi Perangkat Lunak",
+   "level": "HEADING_2",
+   "page": 19
+  },
+  {
+   "text": "BAB IV  HASIL DAN PEMBAHASAN",
+   "level": "HEADING_1",
+   "page": 20
+  },
+  {
+   "text": "4.1  Verifikasi Komponen",
+   "level": "HEADING_2",
+   "page": 20
+  },
+  {
+   "text": "4.2  Matriks Skenario",
+   "level": "HEADING_2",
+   "page": 20
+  },
+  {
+   "text": "4.3  Ablasi Terkendali",
+   "level": "HEADING_2",
+   "page": 23
+  },
+  {
+   "text": "4.4  Pencapaian Indikator Kinerja",
+   "level": "HEADING_2",
+   "page": 24
+  },
+  {
+   "text": "4.5  Pembahasan terhadap Kepustakaan",
+   "level": "HEADING_2",
+   "page": 25
+  },
+  {
+   "text": "4.6  Kegagalan dan Keterbatasan",
+   "level": "HEADING_2",
+   "page": 25
+  },
+  {
+   "text": "4.7  Catatan Rekayasa",
+   "level": "HEADING_2",
+   "page": 25
+  },
+  {
+   "text": "4.8  Simulator dan Audit Antarmuka",
+   "level": "HEADING_2",
+   "page": 26
+  },
+  {
+   "text": "BAB V  PENUTUP",
+   "level": "HEADING_1",
+   "page": 27
+  },
+  {
+   "text": "5.1  Simpulan",
+   "level": "HEADING_2",
+   "page": 27
+  },
+  {
+   "text": "5.2  Saran",
+   "level": "HEADING_2",
+   "page": 27
+  },
+  {
+   "text": "DAFTAR PUSTAKA",
+   "level": "HEADING_1",
+   "page": 28
+  },
+  {
+   "text": "LAMPIRAN A  Struktur Berkas dan Tautan",
+   "level": "HEADING_1",
+   "page": 29
+  },
+  {
+   "text": "LAMPIRAN B  Cara Menjalankan",
+   "level": "HEADING_1",
+   "page": 29
+  },
+  {
+   "text": "LAMPIRAN C  Parameter Kondisi Paru",
+   "level": "HEADING_1",
+   "page": 30
+  },
+  {
+   "text": "LAMPIRAN D  Konfigurasi Controller",
+   "level": "HEADING_1",
+   "page": 30
+  },
+  {
+   "text": "LAMPIRAN E  Data Lengkap Matriks Skenario",
+   "level": "HEADING_1",
+   "page": 31
+  },
+  {
+   "text": "LAMPIRAN F  Data Lengkap Ablasi",
+   "level": "HEADING_1",
+   "page": 33
+  },
+  {
+   "text": "LAMPIRAN G  Audit Kontras Warna",
+   "level": "HEADING_1",
+   "page": 33
+  },
+  {
+   "text": "LAMPIRAN H  Daftar Pengujian Otomatis",
+   "level": "HEADING_1",
+   "page": 34
+  },
+  {
+   "text": "LAMPIRAN I  Cuplikan Kode Inti",
+   "level": "HEADING_1",
+   "page": 35
+  },
+  {
+   "text": "LAMPIRAN J  Palet Warna Antarmuka",
+   "level": "HEADING_1",
+   "page": 36
+  }
+ ],
+ "figures": [
+  {
+   "text": "Gambar 1. Arsitektur kendali lima lapis VIVA-MPC.",
+   "level": "HEADING_2",
+   "page": 13
+  },
+  {
+   "text": "Gambar 2. Keluaran penggambar WebGL pada simulator. Warna mengikuti status rekrutmen tiap wilayah; bagian merah tua keunguan menandai wilayah yang kolaps.",
+   "level": "HEADING_2",
+   "page": 18
+  },
+  {
+   "text": "Gambar 3. Perbandingan tiga besaran utama pada enam kondisi paru.",
+   "level": "HEADING_2",
+   "page": 21
+  },
+  {
+   "text": "Gambar 4. Kiri: takaran variabilitas terpilih dibandingkan takaran tetap 0,30 dari kepustakaan. Kanan: posisi tiap strategi pada bidang mechanical power terhadap GI.",
+   "level": "HEADING_2",
+   "page": 22
+  },
+  {
+   "text": "Gambar 5. Sebaran hasil ablasi pada bidang mechanical power terhadap GI.",
+   "level": "HEADING_2",
+   "page": 23
+  }
+ ],
+ "tables": [
+  {
+   "text": "Tabel 1. Variabel yang dikendalikan berbagai sistem ventilasi otomatis.",
+   "level": "HEADING_2",
+   "page": 11
+  },
+  {
+   "text": "Tabel 2. Metrik yang dicatat pada setiap kombinasi pengujian.",
+   "level": "HEADING_2",
+   "page": 16
+  },
+  {
+   "text": "Tabel 3. Indikator kinerja utama dan dasar penetapan targetnya.",
+   "level": "HEADING_2",
+   "page": 17
+  },
+  {
+   "text": "Tabel 4. Modul paket Python vivampc.",
+   "level": "HEADING_2",
+   "page": 18
+  },
+  {
+   "text": "Tabel 5. Verifikasi generator pola napas pada 512 napas.",
+   "level": "HEADING_2",
+   "page": 20
+  },
+  {
+   "text": "Tabel 6. Respons kembaran digital terhadap takaran variabilitas.",
+   "level": "HEADING_2",
+   "page": 20
+  },
+  {
+   "text": "Tabel 7. Mechanical power rerata (J/menit). Makin kecil makin baik.",
+   "level": "HEADING_2",
+   "page": 21
+  },
+  {
+   "text": "Tabel 8. Global Inhomogeneity index. Makin kecil berarti ventilasi makin merata.",
+   "level": "HEADING_2",
+   "page": 21
+  },
+  {
+   "text": "Tabel 9. Driving pressure rerata (cmH₂O). Batas klinis 15.",
+   "level": "HEADING_2",
+   "page": 21
+  },
+  {
+   "text": "Tabel 10. Takaran variabilitas yang dipilih VIVA-MPC pada tiap kondisi.",
+   "level": "HEADING_2",
+   "page": 22
+  },
+  {
+   "text": "Tabel 11. Persentase napas dengan tekanan plateau di atas 30 cmH₂O.",
+   "level": "HEADING_2",
+   "page": 22
+  },
+  {
+   "text": "Tabel 12. Ablasi variabilitas pada ARDS sedang, empat bobot GI.",
+   "level": "HEADING_2",
+   "page": 23
+  },
+  {
+   "text": "Tabel 13. Pencapaian indikator kinerja utama.",
+   "level": "HEADING_2",
+   "page": 24
+  },
+  {
+   "text": "Tabel 14. Struktur berkas perangkat lunak.",
+   "level": "HEADING_2",
+   "page": 29
+  },
+  {
+   "text": "Tabel 15. Parameter kembaran digital untuk tiap kondisi paru.",
+   "level": "HEADING_2",
+   "page": 30
+  },
+  {
+   "text": "Tabel 16. Rentang pencarian variabel keputusan.",
+   "level": "HEADING_2",
+   "page": 30
+  },
+  {
+   "text": "Tabel 17. Bobot fungsi biaya economic MPC.",
+   "level": "HEADING_2",
+   "page": 31
+  },
+  {
+   "text": "Tabel 18. Batas pada pengawas keselamatan.",
+   "level": "HEADING_2",
+   "page": 31
+  },
+  {
+   "text": "Tabel 19. Data lengkap: tekanan dan energi.",
+   "level": "HEADING_2",
+   "page": 32
+  },
+  {
+   "text": "Tabel 20. Data lengkap: pertukaran gas dan rekrutmen.",
+   "level": "HEADING_2",
+   "page": 32
+  },
+  {
+   "text": "Tabel 21. Data lengkap ablasi variabilitas.",
+   "level": "HEADING_2",
+   "page": 33
+  },
+  {
+   "text": "Tabel 22. Hasil audit kontras antarmuka setelah perbaikan.",
+   "level": "HEADING_2",
+   "page": 34
+  },
+  {
+   "text": "Tabel 23. Daftar pemeriksaan otomatis simulator.",
+   "level": "HEADING_2",
+   "page": 35
+  },
+  {
+   "text": "Tabel 24. Palet warna antarmuka simulator.",
+   "level": "HEADING_2",
+   "page": 37
+  }
+ ]
+}
