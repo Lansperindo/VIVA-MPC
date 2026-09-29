@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/viva-mpc-simulator.html" }
+  ]
+}
